@@ -16,8 +16,8 @@ from urllib.parse import parse_qs, urlparse
 import requests
 
 
-INFO_URL = "https://drive-m.quark.cn/1/clouddrive/capacity/growth/info"
-SIGN_URL = "https://drive-m.quark.cn/1/clouddrive/capacity/growth/sign"
+INFO_URL = "https://drive-member.quark.cn/1/clouddrive/capacity/growth/info"
+SIGN_URL = "https://drive-member.quark.cn/1/clouddrive/capacity/growth/sign"
 REQUIRED_PARAMS = ("kps", "sign", "vcode")
 
 
